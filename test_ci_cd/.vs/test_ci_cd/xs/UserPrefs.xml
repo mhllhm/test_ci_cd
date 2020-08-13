@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{24E2C14C-F58D-4B2F-8B45-C773C071064A}|test_ci_cd">
-  <MonoDevelop.Ide.ItemProperties.test__ci__cd FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile.cs">
+    <Files>
+      <File FileName="Dockerfile.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_ci_cd" expanded="True">
+            <Node name="test_ci_cd" expanded="True">
+              <Node name="Dockerfile.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.test__ci__cd FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
